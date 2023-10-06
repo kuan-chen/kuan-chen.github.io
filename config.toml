@@ -1,0 +1,36 @@
+baseURL = "https://kuan-chen.github.io/"
+languageCode = "en-US"
+title = "Yu-Kuan Chen"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/profile.JPG"
+  author = "Yu-Kuan Chen"
+  description = ""
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Email         = "kuan.chen@rice.edu"
+  LinkedIn      = "yukuanchen"
+
+## Main Menu
+[[menu.main]]
+  name = "research"
+  identifier = "projects"
+  weight = 100
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 200
+  url = "docs/YuKuanChen_CV.pdf/"
