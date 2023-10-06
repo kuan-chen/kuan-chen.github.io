@@ -7,4 +7,4 @@ source:
   - icon: fa fa-github
     name: "The Effects of Brief Juvenile Detentions on Recidivism: Evidence from Low-Risk Youths"
     description: Many youths accused of delinquent conduct are detained as their cases get processed by juvenile courts. Using a decade of detailed administrative data for all initial detention decisions made in one of the largest counties in the US, we find that these short-term detentions of low-risk youths lead to a sizeable increase in the likelihood of rearrest. We also find that these effects are concentrated on youths arrested for non-violent, less serious offenses and are unrelated to the actual amount of time spent in detention. To obtain our estimates, we implement the double/debiased machine learning estimator developed by Chernozhukov et al. (2018), which relies on selection on observables as the key assumption. Sensitivity tests developed by Masten et al. (2020) show that our estimates are robust to plausible levels of violations of this assumption.
-    url: "../docs/Juvenile_Detention.pdf/"
+    url: "https://rice.box.com/s/jd8mzztj3pihdd60rpbrd6eio13qn5vd/"
