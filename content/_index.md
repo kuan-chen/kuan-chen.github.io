@@ -1,7 +1,7 @@
 ---
 ---
 
-Hi! I am **Yu-Kuan Chen**, I will join the National Tsing Hua University as an Assistant Professor in Economics. I will teach at the [Department of Economics](https://econ.site.nthu.edu.tw/) and the [Taipei School of Economics and Political Science (TSE)](https://www.tse.nthu.edu.tw/).
+Hi! I am **Yu-Kuan Chen**, I will join the National Tsing Hua University as an Assistant Professor of Economics in 2024 Fall. I will teach at both the [Department of Economics](https://econ.site.nthu.edu.tw/) and the [Taipei School of Economics and Political Science (TSE)](https://www.tse.nthu.edu.tw/).
 
 I am an Applied Microeconomist focusing topics in education, criminal justice, and labor.
 
