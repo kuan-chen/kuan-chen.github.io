@@ -20,7 +20,7 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Email         = "kuan.chen@rice.edu"
+  Email         = "ykchen@mx.nthu.edu.tw"
   LinkedIn      = "yukuanchen"
 
 ## Main Menu
